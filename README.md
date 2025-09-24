@@ -1,4 +1,4 @@
-# 🌍 Exploring Potentially Habitable Exoplanets — EDA Project
+# 🌍 Exoplanets
 
 ### ✨ Welcome to my first Exploratory Data Analysis (EDA) project!
 
