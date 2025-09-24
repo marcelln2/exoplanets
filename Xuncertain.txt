@@ -1,0 +1,5 @@
+GJ 876 c   True
+Kepler-150 f   True
+Kepler-174 d   True
+Kepler-397 c   True
+Kepler-47 d   True
