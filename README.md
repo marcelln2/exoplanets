@@ -1,10 +1,10 @@
 # 🌍 Exoplanets
 
-### ✨ Welcome to my first Exploratory Data Analysis (EDA) project!
+### Welcome to my first Exploratory Data Analysis (EDA) project!
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This small but focused Exploratory Data Analysis project aims to investigate which known exoplanets might be potentially habitable based on their features. The analysis leverages astrophysical principles and machine learning (KNN Imputation) to handle missing data and calculate criteria such as habitability zones.
 
@@ -12,9 +12,9 @@ The end goal is to propose a shortlist of candidate planets (about a dozen or fe
 
 ---
 
-## 🧪 Setup & Requirements
+## Setup & Requirements
 
-### 📂 Required Files
+### Required Files
 
 - `confirmed_exoplanets.csv` – the dataset used for analysis
 - `main.py` – performs core analysis and visualizations
@@ -22,7 +22,7 @@ The end goal is to propose a shortlist of candidate planets (about a dozen or fe
 - `facilities.py` – evaluates observatory performance
 - `super_earth.py` – identifies “super Earth” candidates
 
-### 📦 Required Libraries
+### Required Libraries
 
 Make sure the following Python libraries are installed:
 
@@ -32,11 +32,9 @@ Make sure the following Python libraries are installed:
 - `seaborn >= 0.13.2`
 - `scikit-learn >= 1.6.1`
 
-> ⚠️ Older versions **may** work, but compatibility is not guaranteed.
-
 ---
 
-## 🧠 Script Breakdown
+## Script Breakdown
 
 ### `main.py`
 This is the core of the analysis:
@@ -68,7 +66,7 @@ Classifies exoplanets into “super Earth” candidates based on:
 
 ---
 
-## 📊 Sample Outputs
+## Sample Outputs
 
 - Count and list of potentially habitable exoplanets
 - Visualizations of temperature vs. orbital distance
@@ -79,7 +77,7 @@ Classifies exoplanets into “super Earth” candidates based on:
 
 ---
 
-## 📍 Notes
+## Notes
 
 - All physical thresholds (like what counts as "habitable" or "super Earth") are based on research and real astrophysics sources.
 - Missing values in key features are imputed using **KNN**, but flagged for transparency.
@@ -87,12 +85,12 @@ Classifies exoplanets into “super Earth” candidates based on:
 
 ---
 
-## 📊 Data source
+## Data source
 - NASA's Exoplanet Archive: https://dataherb.github.io/flora/nasa_exoplanet_archive/
 
 ---
 
-## 💬 Final Thoughts
+## Final Thoughts
 
 This project was created to practice and showcase foundational data science skills, domain research, and effective data storytelling.
 
